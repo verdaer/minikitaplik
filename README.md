@@ -5,5 +5,5 @@ Bu depo, React kullanarak oluşturulan Mini Kitaplık Uygulaması ödevini içer
 ## 🔗 vercel Linki
 Uygulamanın çalışan versiyonuna aşağıdaki adresten ulaşabilirsiniz:
 
-[Uygulamayı Görüntüle](https://vercel.com/verdaers-projects/minikitaplik-eqqa/2tEyExwV9QHhTqrkkdqo9kK9TJTc
+[Uygulamayı Görüntüle](https://minikitaplik-eqqa-bcuhohztl-verdaers-projects.vercel.app
 )
